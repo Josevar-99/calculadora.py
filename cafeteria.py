@@ -1,18 +1,19 @@
 
 
 
-menu_de_cafeteria
+MENU EDITADO DE JUAN
 
-saldo_total = 0
+saldo_total = 1000
 
  print("menu de cafeteria")
 
  menu = {
-    1: ("cafe", 3000)
+    1: ("cafe mocca", 3000)
     2: ("chocolate",2000)
     3: ("croasant", 5000)
-    4: ("cafe expresso", 4000)
-    5: ("dona",2500)
+    4: ("cafe capuccino", 4000)
+    5: ("tequeyoyo", 4000)
+    6: ("agua con gas", 5000)
  }
 
  # Mostrar menu
